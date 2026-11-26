@@ -1,0 +1,15 @@
+/dist/
+*.exe
+*.test
+*.log
+*.key
+*.pem
+*.p12
+*.pfx
+*.cer
+*.crt
+*.mobileconfig
+*.shortcut
+/.env*
+/config.json
+/runtime/
